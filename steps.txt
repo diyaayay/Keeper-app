@@ -1,0 +1,5 @@
+Create React App
+Azure Devops-Code Push
+Create Azure App Service
+Create Azure Build and release pipeline
+Test Deployment
